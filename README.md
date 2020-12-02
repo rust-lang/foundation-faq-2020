@@ -26,7 +26,7 @@ community at the following times:
 * Friday December 11th 2020, between XX and YY
 
 [aug-blog]: https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html
-[issues]: https://github.com/rust-lang/foundation-ama-2020/labels/answered
+[issues]: https://github.com/rust-lang/foundation-ama-2020/issues
 [new]: https://github.com/rust-lang/foundation-ama-2020/issues/new
 [document]: https://github.com/rust-lang/foundation-ama-2020/blob/main/FAQ.md
 
