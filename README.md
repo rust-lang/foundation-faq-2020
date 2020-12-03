@@ -27,7 +27,7 @@ community at the following times:
 
 [aug-blog]: https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html
 [issues]: https://github.com/rust-lang/foundation-ama-2020/issues
-[new]: https://github.com/rust-lang/foundation-ama-2020/issues/new
+[new]: https://github.com/rust-lang/foundation-ama-2020/issues/new?template=question.md
 [document]: https://github.com/rust-lang/foundation-ama-2020/blob/main/FAQ.md
 
 [@ashleygwilliams]: https://github.com/ashleygwilliams
