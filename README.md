@@ -1,11 +1,9 @@
 # Rust Foundation 2020 Q&A
 
-Welcome to the 2020 Q&A of the Rust Foundation Project Group!
-
 ⭐️ [**Read the summary of questions and answers so far in our FAQ!**][faq] ⭐️
 
 After this summer's ["Laying the foundation for Rust's future"][aug-blog] blog
-post the Rust Foundation Project Group began the work to setup a new home for
+post the [Rust Foundation Project Group] began the work to setup a new home for
 the Rust Project. We're getting near the end of the work, and we'd love to
 answer all the questions you have on the Rust Foundation!
 
@@ -22,12 +20,12 @@ issue tracker and collecting them in an [FAQ](faq).
 
 ## Maintainer Q&A
 
-The members of the Rust Core Team will answer questions from the members of the
+The members of the [Rust Core Team] will answer questions from the members of the
 Rust Team starting from December 2nd.
 
 ## Community Q&A Sessions
 
-The members of the Rust Core Team will answer questions from the members of the
+The members of the [Rust Core Team] will answer questions from the members of the
 community during the following time periods:
 
 
@@ -59,12 +57,14 @@ Please keep in mind that the Foundation is still in its final stages of being
 set up. This means that we are not able to talk about sponsors or specific
 details of legal documents at this time. 
 
-Additionally: none of the members of the Core Team are lawyers, but we have
-been working closely with lawyers. Many questions may end up touching on legal
-issues; the Core Team will do it's best to communicate it's understanding, but
-we'd like to keep disputes of the law out of this forum to  the extent that we
-can!
+Additionally: none of the members of the [Rust Core Team] are lawyers, but we
+have been working closely with lawyers. Many questions may end up touching on
+legal issues; the [Rust Core Team] will do it's best to communicate it's
+understanding, but we'd like to keep disputes of the law out of this forum to
+the extent that we can!
 
+[Rust Foundation Project Group]: https://www.rust-lang.org/governance/teams/core#project-foundation
+[Rust Core Team]: https://www.rust-lang.org/governance/teams/core
 [dec7-session]: https://everytimezone.com/s/213ef6bd
 [dec9-session]: https://everytimezone.com/s/f10ec849
 [dec11-session]: https://everytimezone.com/s/3c5c1b75
