@@ -76,7 +76,7 @@ Part of the strength of open source is that it is a great way to enable people f
 
 💁 A: The Rust Foundation will be incorporated as a US 501(c)(6) organization in the state of Delaware. We explored a number of alternatives, including Canada, Switzerland, Belgium, and the EU, but ultimately decided that the US would be our best choice.
 
-The Rust project has contributors and users from all over the world, and one of the pillars of our work has been to ensure Rust keeps being a global project. We consulted leaders of other foundations and our own lawyers, and the conclusion we reached is that no matter where the foundation is located in the world there will always be a subset of people who might have trouble contributing to, interacting with or using Rust.
+The Rust project has contributors and users from all over the world, and one of the pillars of our work has been to ensure Rust keeps being a global project. We consulted leaders of other foundations and our own lawyers, and the conclusion we reached is that no matter where the foundation is located in the world there will always be a subset of people who might have trouble interacting with the Foundation.
 
 There is no location that we can incorporate in that would effortlessly make us global by default. We will constantly make sure it represents and includes people from all over the world, not just the US: ensuring a foundation is global is not something we can do at the start and then forget about it, it’s a continuous effort.
 
