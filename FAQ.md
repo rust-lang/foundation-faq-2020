@@ -54,9 +54,7 @@ In terms of assets, the Foundation will own and steward the trademarks. It will 
 <a id="q-hiring"></a>
 **🤔 Q: Will the foundation hire every Rust contributor?**
 
-💁 A: TL;DR: No, but it will hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
-
-Longer answer:
+💁 A: No, but it will hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
 
 One of the primary goals for the Foundation is to help folks get paid for their work on Rust. We think that’s critical for the long-term sustainability of the project and a core part of our mission. However, we don’t think the right way to do it is to have the Foundation hire a bunch of people directly.
 
@@ -91,8 +89,6 @@ Our goal for the foundation is to make the incorporation location matter as litt
 
 Based on our research, in most cases the problems caused by an organization being in a specific country are operational; there are no insurmountable barriers put forth by legal restrictions. We are committed to investing the time into building operational practices that ensure global participation is not only possible but prioritized.
 
-If there are specific concerns that need addressing, we’d really appreciate people getting in touch, as that enables us and the Foundation to address them directly.
-
 <a id="q-multiple"></a>
 **🤔 Q: Will there only be one Rust foundation long term?**
 
@@ -120,6 +116,6 @@ Something else that’s very important to us: we want the workings of the Founda
 
 💁 A: I think there are actually two questions in one here. The first is “as an individual, can I donate money to support the Foundation?” The answer to that is “not yet but perhaps in the future”. To start, we explicitly prioritized getting donations from companies over individuals. We believe that individuals -- *especially* those currently contributing to the Rust project -- already give so much to the project. While we have a number of corporate sponsors for Rust's infrastructure already, we have not been able to sponsor the Rust project’s broader needs in a directed manner quite yet. We want companies to take responsibility for giving back to the Rust community and project for the value that volunteers bring; their sponsoring the Rust Foundation is one key way for them to do so. #13 also talks about some of the other ways we’re encouraging investment in the Rust project from our corporate sponsors.
 
-The other question is “will Rust maintainers have a voice in what the Fondation does, or just corporate sponsors?” The answer to that question is “Yes, absolutely Rust maintainers have a voice”. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the by-laws ensure that those directors must agree with whatever the Foundation does. I’d be happy to provide more details on that, but I would encourage you to ask about it in a follow-up question. =)
+The other question is “will Rust maintainers have a voice in what the Fondation does, or just corporate sponsors?” The answer to that question is “Yes, absolutely Rust maintainers have a voice”. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the by-laws ensure that those directors must agree with whatever the Foundation does.
 
 One last note: in a legal sense, the draft by-laws of the Foundation provide for both “corporate” and “individual” membership. As a temporary measure, this “individual membership” is defined as being equal to the core team. It is the core team’s intent to expand that set to cover the Rust teams more generally.  Figuring out the right shape for such a process will require both time and broader consultation with the community as well as approval from the Foundation’s board, however, so we decided to defer that until after the Foundation is up and going.
