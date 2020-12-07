@@ -59,7 +59,7 @@ details of legal documents at this time.
 
 Additionally: none of the members of the [Rust Core Team] are lawyers, but we
 have been working closely with lawyers. Many questions may end up touching on
-legal issues; the [Rust Core Team] will do it's best to communicate it's
+legal issues; the [Rust Core Team] will do its best to communicate its
 understanding, but we'd like to keep disputes of the law out of this forum to
 the extent that we can!
 
