@@ -49,7 +49,7 @@ afterwards.
 |                                                   | PST US | EST US | UTC Europe/Africa  | India                   | China            |
 |---------------------------------------------------|--------|--------|--------------------|-------------------------|------------------|
 | Dec 9th ([View in my timezone][dec9-broadcast])   | 3-4pm  | 6-7pm  | 23:00-24:00        | 4:30-5:30am   (Dec 10)  | 7-8am   (Dec 10) |
-| Dec 11th ([View in my timezone][dec11-broadcast]) | 4-5am  | 7-8am  | 12:00-13:00        | 5:30pm-6:30pm           | 8-9pm            |
+| Dec 12th ([View in my timezone][dec11-broadcast]) | 4-5am  | 7-8am  | 12:00-13:00        | 5:30pm-6:30pm           | 8-9pm            |
 
 ### Things to keep in mind
 
