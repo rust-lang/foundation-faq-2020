@@ -14,7 +14,7 @@ open GitHub issues or want to send questions privately you can send them via
 email to <foundation@rust-lang.org>.
 
 Please note that if an issue is labelled [`answered`] the team will not return
-to it, so if you have a follow up quesiton, please post it as a new issue.
+to it, so if you have a follow up question, please post it as a new issue.
 
 ## FAQ
 
