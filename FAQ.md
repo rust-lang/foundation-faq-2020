@@ -124,6 +124,6 @@ Something else that’s very important to us: we want the workings of the Founda
 <a id="q-individuals"></a>
 **🤔 Q: Will Rust maintainers have a voice in the foundation?**
 
-💁 A: Yes, absolutely Rust maintainers have a voice. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the by-laws ensure that those directors must agree with whatever the Foundation does.
+💁 A: Yes, absolutely Rust maintainers have a voice. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the current draft of the by-laws ensures that all decisions will require support from those directors and the directors appointed by the sponsors.
 
 One note: in a legal sense, the draft by-laws of the Foundation provide for both “corporate” and “individual” membership. As a temporary measure, this “individual membership” is defined as being equal to the core team. It is the core team’s intent to expand that set to cover the Rust teams more generally.  Figuring out the right shape for such a process will require both time and broader consultation with the community as well as approval from the Foundation’s board, however, so we decided to defer that until after the Foundation is up and going.
