@@ -11,10 +11,12 @@
 * [Location of incorporation](#location-of-incorporation)
   * [Where are we incorporating?](#q-location)
   * [Why are we incorporating in the US?](#q-usa)
+  * [Will the foundation being based in the US prevent contributing to Rust?](#q-usa-contributors)
   * [Will there only be one Rust foundation long term?](#q-multiple)
 * [Governance structure of the foundation](#governance-structure-of-the-foundation)
   * [How will the foundation structure its board, bylaws and operations?](#q-bylaws)
-  * [Will individuals be able to "join"/become members of/support the foundation?](#q-individuals)
+  * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
+  * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
 
 ## Overview of the foundation
 
@@ -89,12 +91,15 @@ Our goal for the foundation is to make the incorporation location matter as litt
 
 Based on our research, in most cases the problems caused by an organization being in a specific country are operational; there are no insurmountable barriers put forth by legal restrictions. We are committed to investing the time into building operational practices that ensure global participation is not only possible but prioritized.
 
+<a id="q-usa-contributors"></a>
+**🤔 Q: Will the foundation being based in the US prevent contributing to Rust?**
+
+💁 A: There are no current or anticipated impedances to contribution to the Rust project for any set of entities. Rust’s original steward, Mozilla, was also incorporated in the U.S., so the transfer of intellectual property and trademark to a 501(c)(6) in the U.S. doesn’t materially change anything. The lack of impedance to global contribution is derived from the completely open and public development and design of the Rust project, but to get more in depth on this would veer dangerously close to legal analysis, which I want to avoid because I am not a lawyer. While not definitive, and not necessarily representative of the Foundation’s perspective, [this post by GitHub](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/) is a good introduction to the topic for folks that are interested.
+
 <a id="q-multiple"></a>
 **🤔 Q: Will there only be one Rust foundation long term?**
 
-💁 A: So before I answer the question about the potential multiple foundations, I want to clarify the original point made about tradeoffs with incorporation location because I think what we said was confusing. While it’s true that there are any number of tradeoffs to incorporation in any location in the world, *there are no current or anticipated impedances to contribution to the Rust project for any set of entities*. Rust’s original steward, Mozilla, was also incorporated in the U.S., so the transfer of intellectual property and trademark to a 501c6 in the U.S. doesn’t materially change anything. The lack of impedance to global contribution is derived from the completely open and public development and design of the Rust project, but to get more in depth on this would veer dangerously close to legal analysis, which I want to avoid because I am not a lawyer. While not definitive, and not necessarily representative of the Foundation’s perspective, [this post by GitHub](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/) is a good introduction to the topic for folks that are interested.
-
-So onto the question of a future with multiple foundations: There is certainly nothing preventing a future where there are a plurality of Rust Foundations, though, at least for the moment I, personally, see more cost than benefit. It is worth considering the challenges it could bring to fundraising were there to be more than one place to donate; I think it'd be unfortunate to have multiple Foundations competing with each other for funding. Additionally, every new individual foundation would have operational overhead, which would divert money from Foundation causes. Then there is the potential overhead of having to coordinate efforts across multiple Foundations, or, if we were to fail to coordinate, the overhead of managing the lack of consensus . In my head it’s a classic distributed systems vs monolith tradeoff. I don’t know what the future will hold, but I can say that the Core Team definitely discussed this possibility, and we agreed that if it were to be something folks decided was the right call, it would need to be done thoughtfully, and likely be several years in the future.
+💁 A: There is certainly nothing preventing a future where there are a plurality of Rust Foundations, though, at least for the moment I, personally, see more cost than benefit. It is worth considering the challenges it could bring to fundraising were there to be more than one place to donate; I think it'd be unfortunate to have multiple Foundations competing with each other for funding. Additionally, every new individual foundation would have operational overhead, which would divert money from Foundation causes. Then there is the potential overhead of having to coordinate efforts across multiple Foundations, or, if we were to fail to coordinate, the overhead of managing the lack of consensus . In my head it’s a classic distributed systems vs monolith tradeoff. I don’t know what the future will hold, but I can say that the Core Team definitely discussed this possibility, and we agreed that if it were to be something folks decided was the right call, it would need to be done thoughtfully, and likely be several years in the future.
 
 ## Governance structure of the foundation
 
@@ -111,11 +116,14 @@ Still, there are a few things we can say now:
 
 Something else that’s very important to us: we want the workings of the Foundation to be accessible to everyone. To that end, we are planning to release not only the “legal bylaws” but also “human readable” versions (translated into multiple languages), as well as “guidebook”-like materials to help folks understand what it means to be a part of the foundation.
 
+<a id="q-individual-donations"></a>
+**🤔 Q: As an individual, can I donate money to the Rust Foundation?**
+
+💁 A: Not yet but perhaps in the future. To start, we explicitly prioritized getting donations from companies over individuals. We believe that individuals -- especially those currently contributing to the Rust project -- already give so much to the project. While we have a number of corporate sponsors for Rust's infrastructure already, we have not been able to sponsor the Rust project’s broader needs in a directed manner quite yet. We want companies to take responsibility for giving back to the Rust community and project for the value that volunteers bring; their sponsoring the Rust Foundation is one key way for them to do so. The question on [hiring contributors](#q-hiring) also talks about some of the other ways we’re encouraging investment in the Rust project from our corporate sponsors.
+
 <a id="q-individuals"></a>
-**🤔 Q: Will individuals be able to "join"/become members of/support the foundation?**
+**🤔 Q: Will Rust maintainers have a voice in the foundation?**
 
-💁 A: I think there are actually two questions in one here. The first is “as an individual, can I donate money to support the Foundation?” The answer to that is “not yet but perhaps in the future”. To start, we explicitly prioritized getting donations from companies over individuals. We believe that individuals -- *especially* those currently contributing to the Rust project -- already give so much to the project. While we have a number of corporate sponsors for Rust's infrastructure already, we have not been able to sponsor the Rust project’s broader needs in a directed manner quite yet. We want companies to take responsibility for giving back to the Rust community and project for the value that volunteers bring; their sponsoring the Rust Foundation is one key way for them to do so. #13 also talks about some of the other ways we’re encouraging investment in the Rust project from our corporate sponsors.
+💁 A: Yes, absolutely Rust maintainers have a voice. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the by-laws ensure that those directors must agree with whatever the Foundation does.
 
-The other question is “will Rust maintainers have a voice in what the Fondation does, or just corporate sponsors?” The answer to that question is “Yes, absolutely Rust maintainers have a voice”. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the by-laws ensure that those directors must agree with whatever the Foundation does.
-
-One last note: in a legal sense, the draft by-laws of the Foundation provide for both “corporate” and “individual” membership. As a temporary measure, this “individual membership” is defined as being equal to the core team. It is the core team’s intent to expand that set to cover the Rust teams more generally.  Figuring out the right shape for such a process will require both time and broader consultation with the community as well as approval from the Foundation’s board, however, so we decided to defer that until after the Foundation is up and going.
+One note: in a legal sense, the draft by-laws of the Foundation provide for both “corporate” and “individual” membership. As a temporary measure, this “individual membership” is defined as being equal to the core team. It is the core team’s intent to expand that set to cover the Rust teams more generally.  Figuring out the right shape for such a process will require both time and broader consultation with the community as well as approval from the Foundation’s board, however, so we decided to defer that until after the Foundation is up and going.
