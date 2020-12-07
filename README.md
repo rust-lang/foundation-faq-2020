@@ -28,8 +28,7 @@ Rust Team starting from December 2nd.
 
 ## Community Q&A Sessions
 
-The members of the [Rust Core Team] will answer questions from the members of the
-community during the following time periods:
+Members of the Rust community will be able to ask questions of the [Rust Core Team] by filing issues on this repository during the following time periods:
 
 |                                                 | PST US | EST US | UTC Europe/Africa  | India                   | China            |
 |-------------------------------------------------|--------|--------|--------------------|-------------------------|------------------|
@@ -37,8 +36,6 @@ community during the following time periods:
 | Dec 9th ([View in my timezone][dec9-session])   | 4-7am  | 7-10am | 12:00-15:00        | 5:30-8:30pm             | 8pm-11pm         |
 | Dec 11th ([View in my timezone][dec11-session]) | 10-1pm | 1-4pm  | 18:00-21:00        | 11:30pm-2:30am          | 2am-5am (Dec 12) |
 
-Starting on Dec 7th, this repo will be publicly readable, and will open for
-community members to open issues during the sessions.
 
 ## Live Broadcasts
 
