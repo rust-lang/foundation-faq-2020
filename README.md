@@ -13,6 +13,9 @@ to see what other people asked and the answers to their questions. If you can't
 open GitHub issues or want to send questions privately you can send them via
 email to <foundation@rust-lang.org>.
 
+Please note that if an issue is labelled [`answered`] the team will not return
+to it, so if you have a follow up quesiton, please post it as a new issue.
+
 ## FAQ
 
 Periodically, we'll be summarizing the set of questions and answers on the 
@@ -73,3 +76,4 @@ the extent that we can!
 [issues]: https://github.com/rust-lang/foundation-faq-2020/issues
 [new]: https://github.com/rust-lang/foundation-faq-2020/issues/new?template=question.md
 [faq]: https://github.com/rust-lang/foundation-faq-2020/blob/main/FAQ.md
+[`answered`]: https://github.com/rust-lang/foundation-faq-2020/labels/answered
