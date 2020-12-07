@@ -15,6 +15,7 @@
   * [Will there only be one Rust foundation long term?](#q-multiple)
 * [Governance structure of the foundation](#governance-structure-of-the-foundation)
   * [How will the foundation structure its board, bylaws and operations?](#q-bylaws)
+  * [Will the Rust trademark issues, that derived from Mozilla media-guide be fixed?](#q-trademark)
   * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
 
@@ -115,6 +116,20 @@ Still, there are a few things we can say now:
 * In true Rust spirit, we are structuring things so as to encourage active collaboration between the sponsor representatives and the project directors, and to ensure that the project directors are on board with whatever actions the Foundation takes.
 
 Something else that’s very important to us: we want the workings of the Foundation to be accessible to everyone. To that end, we are planning to release not only the “legal bylaws” but also “human readable” versions (translated into multiple languages), as well as “guidebook”-like materials to help folks understand what it means to be a part of the foundation.
+
+<a id="q-trademark"></a>
+**🤔 Q: Will the Rust trademark lacunes, that derived from Mozilla media-guide be resolved?**
+
+💁 A: We’re still finalizing all the details around the foundation and by consequence in the trademark, nontheless we are working on a python, perl "like" policy, so our branding can still be efectively protected, to prevent copycat, or malicius forks, that intend to inject malware on our users systems.
+
+But when such work is completed, the following will be adressed:
+
+* Removing past restrictions on our contributors when they intend to give back or patch our project codebase.
+* Respect the freedom to improve the program, and release it back to the Rust coebase, in order to respect FOSS ideals, removing the clauses were demanding permissions are necessary.
+* Remove all mozzilla media-guide references, so such restrictive policy can be removed.
+* Adapting wording, in other to implement a similar policy to what is done in the python and perl projects on such.
+
+In order to make it possible to our users freely contribute and improve this amazing project without any fear of trademark policy violation or infrigments.
 
 <a id="q-individual-donations"></a>
 **🤔 Q: As an individual, can I donate money to the Rust Foundation?**
