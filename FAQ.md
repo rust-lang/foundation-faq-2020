@@ -125,8 +125,8 @@ Something else that’s very important to us: we want the workings of the Founda
 But when such work is completed, the following will be adressed:
 
 * Removing past restrictions on our contributors when they intend to give back or patch our project codebase.
-* Respect the freedom to improve the program, and release it back to the Rust coebase, in order to respect FOSS ideals, removing the clauses were demanding permissions are necessary.
-* Remove all mozzilla media-guide references, so such restrictive policy can be removed.
+* Respect the freedom to improve the program, and release it back to the Rust codebase, in order to respect FOSS ideals, removing the clauses were demanding permissions are necessary.
+* Remove all mozilla media-guide references, so such restrictive policy can be removed.
 * Adapting wording, in other to implement a similar policy to what is done in the python and perl projects on such.
 
 In order to make it possible to our users freely contribute and improve this amazing project without any fear of trademark policy violation or infrigments.
