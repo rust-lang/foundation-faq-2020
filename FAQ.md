@@ -14,9 +14,18 @@
   * [Will the foundation being based in the US prevent contributing to Rust?](#q-usa-contributors)
   * [Will there only be one Rust foundation long term?](#q-multiple)
 * [Governance structure of the foundation](#governance-structure-of-the-foundation)
+  * [Why will the Rust Foundation be a 501(c)(6)?](#q-501c6)
   * [How will the foundation structure its board, bylaws and operations?](#q-bylaws)
   * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
+  * [As an individual, can I become a member of the foundation?](#q-individual-membership)
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
+  * [Will the foundation share insights into its finances?](#q-finances)
+  * [Will the foundation revisit the trademark policy?](#q-trademark)
+* [Relationships of the foundation](#relationships-of-the-foundation)
+  * [What's the relationship between the foundation and the project?](#q-rel-project)
+  * [What's the relationship between the foundation, the infrastructure and crates.io?](#q-rel-infra)
+  * [What's the relationship between the Rust Foundation and other foundations?](#q-rel-foundations)
+  * [How will the Rust foundation participate in Rust conferences?](#q-rel-conferences)
 
 ## Overview of the foundation
 
@@ -103,6 +112,23 @@ Based on our research, in most cases the problems caused by an organization bein
 
 ## Governance structure of the foundation
 
+<a id="q-501c6"></a>
+**🤔 Q: Why will the Rust Foundation be a 501(c)(6)?**
+
+Practically speaking, the distinction between 501(c)(3) and 501(c)(6) matters the most when it comes to US-specific paperwork filed with the IRS. Creating a 501(c)(6) is much faster (it doesn’t require nearly as much authorization from the IRS) and it gives us more flexibility. It does mean that donations from US individuals are not necessarily tax deductible, but this only matters to a small audience (US taxpayers who do itemized returns and for whom the donation does not qualify as a business expense). For companies in the US, donations are deductible either way.
+
+The more interesting question is the story around constituencies and priorities.
+
+A 501(c)(3), also called a Public Charity, is a group of people with an “exclusively charitable interest”. The definition of this is where a lot of the difficulty with the IRS comes in, as it’s up for interpretation and that interpretation is driven by previous cases and outcomes. You can read more about these [here][irs-501c3]. While it would be completely possible to make the case for a 501(c)(3) - making the case, and continuing to make the case would be a lot of effort for what we determined was very little benefit.
+
+A 501(c)(6), also called a Trade Association, is an association of people with a common interest. Historically, most open source software foundations have defined that interest as the successful adoption of the technology, often with an implicit assumption that that adoption be by for-profit corporate entities.
+
+In the case of Rust, we are taking a different approach. While the above definition is common, it is by no means legally required by the 501(c)(6) designation. What is legally required is that the association's “activities must be devoted to improving business conditions of one or more lines of business”. The public policy idea here is that society benefits from industry practitioners gathering to improve their craft.
+
+The practitioners here are the users and maintainers of Rust, and the craft is using Rust. The interesting part is deciding what “improving business conditions” means. In our case, we are very explicitly defining our common interest as the health, vibrancy, and sustainability of the Rust open source organization as being the most direct way to improve the craft of using Rust.  We think we are in a moment where folks are questioning the economic and organizational models around open source and are looking for a change and we’ve had enthusiastic reception from potential sponsors!
+
+[irs-501c3]: https://www.irs.gov/publications/p557#en_US_202001_publink1000200022
+
 <a id="q-bylaws"></a>
 **🤔 Q: How will the foundation structure its board, bylaws and operations?**
 
@@ -121,9 +147,52 @@ Something else that’s very important to us: we want the workings of the Founda
 
 💁 A: Not yet but perhaps in the future. To start, we explicitly prioritized getting donations from companies over individuals. We believe that individuals -- especially those currently contributing to the Rust project -- already give so much to the project. While we have a number of corporate sponsors for Rust's infrastructure already, we have not been able to sponsor the Rust project’s broader needs in a directed manner quite yet. We want companies to take responsibility for giving back to the Rust community and project for the value that volunteers bring; their sponsoring the Rust Foundation is one key way for them to do so. The question on [hiring contributors](#q-hiring) also talks about some of the other ways we’re encouraging investment in the Rust project from our corporate sponsors.
 
+<a id="q-individual-membership"></a>
+**🤔 Q: As an individual, can I become a member of the foundation?**
+
+💁 A: We have talked about expanding the set of members to cover Rust team members and maintainers, but we don’t have current plans to extend the membership to cover individual Rust users. That seems like a really nice thing to do, but it’s quite difficult to get right, and so we have opted to let the foundation decide if/when to pursue it.
+
 <a id="q-individuals"></a>
 **🤔 Q: Will Rust maintainers have a voice in the foundation?**
 
 💁 A: Yes, absolutely Rust maintainers have a voice. The Foundation board will have a number of seats that are occupied by Rust team members and who are tasked with representing the project. Moreover, the current draft of the by-laws ensures that all decisions will require support from those directors and the directors appointed by the sponsors.
 
 One note: in a legal sense, the draft by-laws of the Foundation provide for both “corporate” and “individual” membership. As a temporary measure, this “individual membership” is defined as being equal to the core team. It is the core team’s intent to expand that set to cover the Rust teams more generally.  Figuring out the right shape for such a process will require both time and broader consultation with the community as well as approval from the Foundation’s board, however, so we decided to defer that until after the Foundation is up and going.
+
+<a id="q-finances"></a>
+**🤔 Q: Will the foundation share insights into its finances?**
+
+💁 A: Yes, the Foundation definitely intends to make financial transparency a high priority. You can expect regular reports that discuss what the foundation has done and financial details.
+
+<a id="q-trademark"></a>
+**🤔 Q: Will the foundation revisit the trademark policy?**
+
+💁 A: The foundation will be reviewing the trademark policy, but it will ultimately be up to the board to decide the terms that are selected.
+
+## Relationships of the foundation
+
+<a id="q-rel-project"></a>
+**🤔 Q: What's the relationship between the foundation and the project?**
+
+💁 A: The Foundation is set up to **support and complement** the existing Rust teams. It doesn’t have a role in accepting RFCs, for example, nor does it control the membership of the Rust teams. A good mental model is to think of the Foundation as a resource that teams can use to address their needs. [See this question](#q-scope) for some examples of the kinds of things we have in mind. The project also has strong representation on the foundation board. [You can read more about that here](#q-bylaws). We expect to be posting more on this topic, perhaps in a blog post or other document, but hopefully this gives you a good sense for the plan.
+
+<a id="q-rel-infra"></a>
+**🤔 Q: What's the relationship between the foundation, the infrastructure and crates.io?**
+
+💁 A: All the project infrastructure will be legally owned by the Rust Foundation,
+including the crates.io package registry. The foundation will pay for the
+infrastructure, but the infrastructure will be directed by the Rust teams.
+
+<a id="q-rel-foundations"></a>
+**🤔 Q: What's the relationship between the Rust Foundation and other foundations?**
+
+💁 A: No plans at the moment! This will be for the Foundation itself to decide, but we’re excited for the possibility to have organizational relationships in the future!
+
+<a id="q-rel-conferences"></a>
+**🤔 Q: How will the Rust foundation participate in Rust conferences?**
+
+💁 A: An amazing thing about the Rust Project is that we have developed many of the functionalities that you might expect in a Foundation on the Project side of things. Rust has a community team that has been stewarding the development of a strong network of community organisers, running conferences and spreading organisational experience.
+
+Developing this independent federation of community events is incredibly valuable. Were this not to exist, we could imagine needing a Foundation that would invest more heavily, but as it were- the Rust community has been [doing a fantastic job of this](https://blog.rustfest.eu/rustfest-project-announcement).
+
+We do expect that supporting the community team in stewarding this work would be in scope for the foundation. I’m reminded of a skillshare between event organizers that they ran at the Rust Impl Days in Paris in 2018- a “teach the teachers” workshop. Ensuring that the Rust Community team can continue to be fantastic leaders is directly aligned with the Foundation’s goal of supporting maintainers.
