@@ -20,7 +20,7 @@
   * [As an individual, can I become a member of the foundation?](#q-individual-membership)
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
   * [Will the foundation share insights into its finances?](#q-finances)
-  * [Will the foundation revisit the trademark policy?](#q-trademark)
+  * [Will the foundation revisit the trademark policy?](#q-trademark-policy)
 * [Relationships of the foundation](#relationships-of-the-foundation)
   * [What's the relationship between the foundation and the project?](#q-rel-project)
   * [What's the relationship between the foundation, the infrastructure and crates.io?](#q-rel-infra)
@@ -164,7 +164,7 @@ One note: in a legal sense, the draft by-laws of the Foundation provide for both
 
 💁 A: Yes, the Foundation definitely intends to make financial transparency a high priority. You can expect regular reports that discuss what the foundation has done and financial details.
 
-<a id="q-trademark"></a>
+<a id="q-trademark-policy"></a>
 **🤔 Q: Will the foundation revisit the trademark policy?**
 
 💁 A: The foundation will be reviewing the trademark policy, but it will ultimately be up to the board to decide the terms that are selected.
