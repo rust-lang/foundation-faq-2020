@@ -138,7 +138,7 @@ Still, there are a few things we can say now:
 
 * The board will have representatives from both sponsor companies and project directors.
 * The project directors will be drawn from active Rust team members.
-* In true Rust spirit, we are structuring things so as to encourage active collaboration between the sponsor representatives and the project directors, and to ensure that the project directors are on board with whatever actions the Foundation takes.
+* In true Rust spirit, we are structuring things so as to encourage active collaboration between the sponsor representatives and the project directors. For example, the draft by-laws require that all motions be approved with both a majority of project directors and a majority of sponsor representatives.
 
 Something else that’s very important to us: we want the workings of the Foundation to be accessible to everyone. To that end, we are planning to release not only the “legal bylaws” but also “human readable” versions (translated into multiple languages), as well as “guidebook”-like materials to help folks understand what it means to be a part of the foundation.
 
