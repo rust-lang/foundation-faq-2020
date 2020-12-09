@@ -65,7 +65,7 @@ In terms of assets, the Foundation will own and steward the trademarks. It will 
 <a id="q-hiring"></a>
 **🤔 Q: Will the foundation hire every Rust contributor?**
 
-💁 A: No, but it will hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
+💁 A: No, but it may hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
 
 One of the primary goals for the Foundation is to help folks get paid for their work on Rust. We think that’s critical for the long-term sustainability of the project and a core part of our mission. However, we don’t think the right way to do it is to have the Foundation hire a bunch of people directly.
 
