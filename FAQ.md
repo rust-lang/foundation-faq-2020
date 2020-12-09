@@ -3,29 +3,37 @@
 * [Overview of the foundation](#overview-of-the-foundation)
   * [What's the name of the foundation?](#q-name)
   * [Why an independent foundation?](#q-why-independent)
+  * [Who will the sponsors of the foundation be?](#q-sponsors) **✨ New answer! ✨**
 * [Purpose and scope](#purpose-and-scope)
   * [What is the purpose of the Rust foundation?](#q-purpose)
   * [What is the initial scope of the foundation?](#q-scope)
   * [Will the foundation hire every Rust contributor?](#q-hiring)
   * [Who will have control over the Rust trademark?](#q-trademark)
+  * [Is supporting events like the Rust All-Hands in scope for the foundation?](#q-all-hands) **✨ New answer! ✨**
 * [Location of incorporation](#location-of-incorporation)
   * [Where are we incorporating?](#q-location)
   * [Why are we incorporating in the US?](#q-usa)
   * [Will the foundation being based in the US prevent contributing to Rust?](#q-usa-contributors)
+  * [Will the foundation only hire in the US?](#q-usa-hiring) **✨ New answer! ✨**
   * [Will there only be one Rust foundation long term?](#q-multiple)
 * [Governance structure of the foundation](#governance-structure-of-the-foundation)
   * [Why will the Rust Foundation be a 501(c)(6)?](#q-501c6)
   * [How will the foundation structure its board, bylaws and operations?](#q-bylaws)
+  * [Will all the documents, rules and bylaws be available publicly and versioned?](#q-versioned-bylaws) **✨ New answer! ✨**
   * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
   * [As an individual, can I become a member of the foundation?](#q-individual-membership)
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
   * [Will the foundation share insights into its finances?](#q-finances)
+  * [Will the board members and officers be compensated?](#q-board-compensation) **✨ New answer! ✨**
+  * [Will there be rules in places to prevent financial abuse?](#q-financial-abuse) **✨ New answer! ✨**
+  * [What prevents organizational capture of the foundation?](#q-organizational-capture) **✨ New answer! ✨**
   * [Will the foundation revisit the trademark policy?](#q-trademark-policy)
 * [Relationships of the foundation](#relationships-of-the-foundation)
   * [What's the relationship between the foundation and the project?](#q-rel-project)
   * [What's the relationship between the foundation, the infrastructure and crates.io?](#q-rel-infra)
   * [What's the relationship between the Rust Foundation and other foundations?](#q-rel-foundations)
   * [How will the Rust foundation participate in Rust conferences?](#q-rel-conferences)
+  * [Will the foundation share its experience with others?](#q-sharing-experience) **✨ New answer! ✨**
 
 ## Overview of the foundation
 
@@ -38,6 +46,11 @@
 **🤔 Q: Why an independent foundation?**
 
 💁 A: After spending a significant amount of time researching potential umbrella organizations, we decided that our best option was to incorporate an independent entity. Rust is a technology and community that is value driven and we simply didn’t find an organization that we felt was aligned with our community goals. This does mean more work for us, especially upfront, but we think the tradeoff is worth it.
+
+<a id="q-sponsors"></a>
+**🤔 Q: Who will the sponsors of the foundation be?**
+
+💁 A: We’re not able to answer this question yet. There will be a public announcement sometime in January.
 
 ## Purpose and scope
 
@@ -65,7 +78,7 @@ In terms of assets, the Foundation will own and steward the trademarks. It will 
 <a id="q-hiring"></a>
 **🤔 Q: Will the foundation hire every Rust contributor?**
 
-💁 A: No, but it will hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
+💁 A: No, but it may hire for a few specialized roles, such as infrastructure and on-call work. However, we do plan to incentivize and encourage companies to hire people to work on Rust (not just in Rust).
 
 One of the primary goals for the Foundation is to help folks get paid for their work on Rust. We think that’s critical for the long-term sustainability of the project and a core part of our mission. However, we don’t think the right way to do it is to have the Foundation hire a bunch of people directly.
 
@@ -79,6 +92,11 @@ Part of the strength of open source is that it is a great way to enable people f
 **🤔 Q: Who will have control over the Rust trademark?**
 
 💁 A: Mozilla is the current owner of the Rust trademarks and they have committed to transferring it to the Foundation at its incorporation.
+
+<a id="q-all-hands"></a>
+**🤔 Q: Is supporting events like the Rust All-Hands in scope for the foundation?**
+
+💁 A: Yes! Events targeted at maintainers are definitely in scope, and we’d love to go beyond just a yearly All-Hands. One example from the past is impl days, and we’d enjoy running it again.
 
 ## Location of incorporation
 
@@ -104,6 +122,11 @@ Based on our research, in most cases the problems caused by an organization bein
 **🤔 Q: Will the foundation being based in the US prevent contributing to Rust?**
 
 💁 A: There are no current or anticipated impedances to contribution to the Rust project for any set of entities. Rust’s original steward, Mozilla, was also incorporated in the U.S., so the transfer of intellectual property and trademark to a 501(c)(6) in the U.S. doesn’t materially change anything. The lack of impedance to global contribution is derived from the completely open and public development and design of the Rust project, but to get more in depth on this would veer dangerously close to legal analysis, which I want to avoid because I am not a lawyer. While not definitive, and not necessarily representative of the Foundation’s perspective, [this post by GitHub](https://github.blog/2019-09-12-global-software-collaboration-in-the-face-of-sanctions/) is a good introduction to the topic for folks that are interested.
+
+<a id="q-usa-hiring"></a>
+**🤔 Q: Will the foundation only hire in the US?**
+
+💁 A: The foundation will hire globally, not only in the US. As part of choosing the location, we prioritized research into the options for how to manage this effectively. One common strategy is to use a Global Professional Employment Organization (PEO), which is an intermediary company that specializes in managing employees and employment laws around the globe. Ultimately, of course, the foundation is responsible for deciding on these sorts of operational details.
 
 <a id="q-multiple"></a>
 **🤔 Q: Will there only be one Rust foundation long term?**
@@ -142,6 +165,11 @@ Still, there are a few things we can say now:
 
 Something else that’s very important to us: we want the workings of the Foundation to be accessible to everyone. To that end, we are planning to release not only the “legal bylaws” but also “human readable” versions (translated into multiple languages), as well as “guidebook”-like materials to help folks understand what it means to be a part of the foundation.
 
+<a id="q-versioned-bylaws"></a>
+**🤔 Q: Will all the documents, rules and bylaws be available publicly and versioned?**
+
+💁 A: Transparency is a core value of the Foundation, and we do intend to make our documents available and accessible. We’re not sure that we’ll be able to provide diffs, but we’d like to do this. We’ll need to see if it is feasible!  We are planning on publishing human-readable versions, including translations, and those should be much shorter and easier to compare.
+
 <a id="q-individual-donations"></a>
 **🤔 Q: As an individual, can I donate money to the Rust Foundation?**
 
@@ -164,6 +192,29 @@ One note: in a legal sense, the draft by-laws of the Foundation provide for both
 
 💁 A: Yes, the Foundation definitely intends to make financial transparency a high priority. You can expect regular reports that discuss what the foundation has done and financial details.
 
+<a id="q-board-compensation"></a>
+**🤔 Q: Will the board members and officers be compensated?**
+
+💁 A: We expect the Foundation to hire for a full-time paid leadership position, appointed by the board. The foundation will likely have other paid staff, that handle things like legal, accounting, and managing Rust’s infrastructure. We do not expect that board members will be compensated initially, but we did leave room for the board to authorize a stipend for volunteers that would not otherwise be able to make the time commitment.
+
+<a id="q-financial-abuse"></a>
+**🤔 Q: Will there be rules in places to prevent financial abuse?**
+
+💁 A: When it comes to preventing financial abuse, long term operation of the foundation requires ‘defense in depth’. For general transparency we expect to be publishing regular reports with financial details. At the whole-board level (consisting of both project members and sponsor representatives), financial oversight is one of their responsibilities. Finally, an important piece of context is the concept of individual fiduciary duty: directors are always expected and legally bound to work in the best financial interests of the foundation.
+
+<a id="q-organizational-capture"></a>
+**🤔 Q: What prevents organizational capture of the foundation?**
+
+💁 A: We have endeavored to construct the Foundation such that there are a plurality of voices on the board and those voices have power.
+
+Unlike many software foundation boards, the project itself will appoint a significant number of directors to the board to sit alongside the corporate directors, as we mentioned in the answer to [“Will Rust maintainers have a voice in the foundation?”](#q-individuals).
+
+Additionally, the board is structured in a way that has limits on the power that any one particular entity can have. While the bylaws are still in draft, they contain several rules to prevent organizational capture, for example:
+
+- Limits to the number of directors that can be employed by a single entity
+- Limits to the number of votes an entity has, if it there are multiple legal subsidiaries represented on the board
+- Quorum and voting decisions requiring majorities from both project directors and corporate directors
+
 <a id="q-trademark-policy"></a>
 **🤔 Q: Will the foundation revisit the trademark policy?**
 
@@ -179,9 +230,7 @@ One note: in a legal sense, the draft by-laws of the Foundation provide for both
 <a id="q-rel-infra"></a>
 **🤔 Q: What's the relationship between the foundation, the infrastructure and crates.io?**
 
-💁 A: All the project infrastructure will be legally owned by the Rust Foundation,
-including the crates.io package registry. The foundation will pay for the
-infrastructure, but the infrastructure will be directed by the Rust teams.
+💁 A: All the project infrastructure will be legally owned by the Rust Foundation, including the crates.io package registry. The foundation will pay for the infrastructure, but the infrastructure will be directed by the Rust teams.
 
 <a id="q-rel-foundations"></a>
 **🤔 Q: What's the relationship between the Rust Foundation and other foundations?**
@@ -196,3 +245,8 @@ infrastructure, but the infrastructure will be directed by the Rust teams.
 Developing this independent federation of community events is incredibly valuable. Were this not to exist, we could imagine needing a Foundation that would invest more heavily, but as it were- the Rust community has been [doing a fantastic job of this](https://blog.rustfest.eu/rustfest-project-announcement).
 
 We do expect that supporting the community team in stewarding this work would be in scope for the foundation. I’m reminded of a skillshare between event organizers that they ran at the Rust Impl Days in Paris in 2018- a “teach the teachers” workshop. Ensuring that the Rust Community team can continue to be fantastic leaders is directly aligned with the Foundation’s goal of supporting maintainers.
+
+<a id="q-sharing-experience"></a>
+**🤔 Q: Will the foundation share its experience with others?**
+
+💁 A: As we worked to design the Foundation we spoke with many officers, directors, and lawyers from other software Foundations. Learning from others is a cornerstone of the Rust Project, and the Foundation effort is no different. Once fully established, we expect the Foundation to eagerly share experiences with others and continue to learn from others’ experiences in turn.
