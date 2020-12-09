@@ -45,10 +45,10 @@ to some of the questions that have been asked thus far. Naturally, even if you
 can’t catch the live broadcast, the video will be available for streaming
 afterwards. 
 
-|                                                   | PST US | EST US | UTC Europe/Africa  | India                   | China            |
-|---------------------------------------------------|--------|--------|--------------------|-------------------------|------------------|
-| Dec 9th ([View in my timezone][dec9-broadcast])   | 3-4pm  | 6-7pm  | 23:00-24:00        | 4:30-5:30am   (Dec 10)  | 7-8am   (Dec 10) |
-| Dec 12th ([View in my timezone][dec11-broadcast]) | 4-5am  | 7-8am  | 12:00-13:00        | 5:30pm-6:30pm           | 8-9pm            |
+|                                                   |                            | PST US | EST US | UTC Europe/Africa  | India                   | China            |
+|---------------------------------------------------|----------------------------|--------|--------|--------------------|-------------------------|------------------|
+| Dec 9th ([View in my timezone][dec9-broadcast])   | [Watch on YouTube][live-1] | 3-4pm  | 6-7pm  | 23:00-24:00        | 4:30-5:30am   (Dec 10)  | 7-8am   (Dec 10) |
+| Dec 12th ([View in my timezone][dec11-broadcast]) | [Watch on YouTube][live-2] | 4-5am  | 7-8am  | 12:00-13:00        | 5:30pm-6:30pm           | 8-9pm            |
 
 ### Things to keep in mind
 
@@ -74,3 +74,6 @@ the extent that we can!
 [new]: https://github.com/rust-lang/foundation-faq-2020/issues/new?template=question.md
 [faq]: https://github.com/rust-lang/foundation-faq-2020/blob/main/FAQ.md
 [`answered`]: https://github.com/rust-lang/foundation-faq-2020/labels/answered
+
+[live-1]: https://www.youtube.com/watch?v=OmEcRWyT6Ak
+[live-2]: https://www.youtube.com/watch?v=42ZWHYWv9Ic
