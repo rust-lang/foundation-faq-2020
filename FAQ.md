@@ -22,6 +22,7 @@
   * [Will all the documents, rules and bylaws be available publicly and versioned?](#q-versioned-bylaws)
   * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
   * [As an individual, can I become a member of the foundation?](#q-individual-membership)
+  * [As an individual, can I volunteer for the Rust Foundation?](#q-individual-volunteer) **✨ New answer! ✨**
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
   * [Will the foundation share insights into its finances?](#q-finances)
   * [Will the board members and officers be compensated?](#q-board-compensation)
@@ -179,6 +180,13 @@ Something else that’s very important to us: we want the workings of the Founda
 **🤔 Q: As an individual, can I become a member of the foundation?**
 
 💁 A: We have talked about expanding the set of members to cover Rust team members and maintainers, but we don’t have current plans to extend the membership to cover individual Rust users. That seems like a really nice thing to do, but it’s quite difficult to get right, and so we have opted to let the foundation decide if/when to pursue it.
+
+<a id="q-individual-volunteer"></a>
+**🤔 Q: As an individual, can I volunteer for the Rust Foundation?**
+
+💁 A: We should make it easy for people to figure out how to help. We feel that the best way to do this would be to avoid creating “foundation volunteers” vs “project volunteers”, and instead to just have the concept of “Rust volunteers”.
+
+It may be helpful to consider an example. In an earlier question, we mentioned our plan to produce human readable by-laws and translate them into multiple languages. Instead of having the foundation solicit its own set of translators, we contacted the Rust Community team who agreed to organize and staff this effort. (Big shoutout in advance to all the people who will help with this, along with the people who do translation for Rust in general: you all are the best!)
 
 <a id="q-individuals"></a>
 **🤔 Q: Will Rust maintainers have a voice in the foundation?**
