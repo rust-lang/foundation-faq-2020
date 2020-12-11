@@ -3,37 +3,37 @@
 * [Overview of the foundation](#overview-of-the-foundation)
   * [What's the name of the foundation?](#q-name)
   * [Why an independent foundation?](#q-why-independent)
-  * [Who will the sponsors of the foundation be?](#q-sponsors) **✨ New answer! ✨**
+  * [Who will the sponsors of the foundation be?](#q-sponsors)
 * [Purpose and scope](#purpose-and-scope)
   * [What is the purpose of the Rust foundation?](#q-purpose)
   * [What is the initial scope of the foundation?](#q-scope)
   * [Will the foundation hire every Rust contributor?](#q-hiring)
   * [Who will have control over the Rust trademark?](#q-trademark)
-  * [Is supporting events like the Rust All-Hands in scope for the foundation?](#q-all-hands) **✨ New answer! ✨**
+  * [Is supporting events like the Rust All-Hands in scope for the foundation?](#q-all-hands)
 * [Location of incorporation](#location-of-incorporation)
   * [Where are we incorporating?](#q-location)
   * [Why are we incorporating in the US?](#q-usa)
   * [Will the foundation being based in the US prevent contributing to Rust?](#q-usa-contributors)
-  * [Will the foundation only hire in the US?](#q-usa-hiring) **✨ New answer! ✨**
+  * [Will the foundation only hire in the US?](#q-usa-hiring)
   * [Will there only be one Rust foundation long term?](#q-multiple)
 * [Governance structure of the foundation](#governance-structure-of-the-foundation)
   * [Why will the Rust Foundation be a 501(c)(6)?](#q-501c6)
   * [How will the foundation structure its board, bylaws and operations?](#q-bylaws)
-  * [Will all the documents, rules and bylaws be available publicly and versioned?](#q-versioned-bylaws) **✨ New answer! ✨**
+  * [Will all the documents, rules and bylaws be available publicly and versioned?](#q-versioned-bylaws)
   * [As an individual, can I donate money to the Rust Foundation?](#q-individual-donations)
   * [As an individual, can I become a member of the foundation?](#q-individual-membership)
   * [Will Rust maintainers have a voice in the foundation?](#q-individuals)
   * [Will the foundation share insights into its finances?](#q-finances)
-  * [Will the board members and officers be compensated?](#q-board-compensation) **✨ New answer! ✨**
-  * [Will there be rules in places to prevent financial abuse?](#q-financial-abuse) **✨ New answer! ✨**
-  * [What prevents organizational capture of the foundation?](#q-organizational-capture) **✨ New answer! ✨**
+  * [Will the board members and officers be compensated?](#q-board-compensation)
+  * [Will there be rules in places to prevent financial abuse?](#q-financial-abuse)
+  * [What prevents organizational capture of the foundation?](#q-organizational-capture)
   * [Will the foundation revisit the trademark policy?](#q-trademark-policy)
 * [Relationships of the foundation](#relationships-of-the-foundation)
   * [What's the relationship between the foundation and the project?](#q-rel-project)
   * [What's the relationship between the foundation, the infrastructure and crates.io?](#q-rel-infra)
   * [What's the relationship between the Rust Foundation and other foundations?](#q-rel-foundations)
   * [How will the Rust foundation participate in Rust conferences?](#q-rel-conferences)
-  * [Will the foundation share its experience with others?](#q-sharing-experience) **✨ New answer! ✨**
+  * [Will the foundation share its experience with others?](#q-sharing-experience)
 
 ## Overview of the foundation
 
