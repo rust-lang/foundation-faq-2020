@@ -19,7 +19,7 @@ to it, so if you have a follow up question, please post it as a new issue.
 ## FAQ
 
 Periodically, we'll be summarizing the set of questions and answers on the 
-issue tracker and collecting them in an [FAQ](faq). 
+issue tracker and collecting them in an [FAQ][faq]. 
 
 ## Maintainer Q&A
 
